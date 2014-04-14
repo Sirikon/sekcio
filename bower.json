@@ -1,0 +1,27 @@
+{
+  "name": "sekcio",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Sirikon/sekcio",
+  "authors": [
+    "Carlos Fernández Llamas <sirikon2@gmail.com>"
+  ],
+  "description": "Scroll sections made easy",
+  "main": "lib/sekcio.js",
+  "keywords": [
+    "sekcio",
+    "section",
+    "scroll"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "2.1.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
